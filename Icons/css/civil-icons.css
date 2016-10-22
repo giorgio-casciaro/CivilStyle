@@ -1,0 +1,70 @@
+@font-face {
+  font-family: 'civil-icons';
+  src: url('../font/civil-icons.eot?64218376');
+  src: url('../font/civil-icons.eot?64218376#iefix') format('embedded-opentype'),
+       url('../font/civil-icons.woff2?64218376') format('woff2'),
+       url('../font/civil-icons.woff?64218376') format('woff'),
+       url('../font/civil-icons.ttf?64218376') format('truetype'),
+       url('../font/civil-icons.svg?64218376#civil-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'civil-icons';
+    src: url('../font/civil-icons.svg?64218376#civil-icons') format('svg');
+  }
+}
+*/
+ 
+ [class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "civil-icons";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+ 
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+ 
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+ 
+.icon-a-chi-e-rivolto:before { content: '\30'; } /* '0' */
+.icon-loading:before { content: '\31'; } /* '1' */
+.icon-profile:before { content: '\32'; } /* '2' */
+.icon-supporto:before { content: '\33'; } /* '3' */
+.icon-menu:before { content: '\34'; } /* '4' */
+.icon-config:before { content: '\35'; } /* '5' */
+.icon-come-unziona:before { content: '\36'; } /* '6' */
+.icon-faq:before { content: '\37'; } /* '7' */
+.icon-doc:before { content: '\38'; } /* '8' */
+.icon-contacts:before { content: '\39'; } /* '9' */
+.icon-gplus:before { content: '\61'; } /* 'a' */
+.icon-twitter:before { content: '\64'; } /* 'd' */
+.icon-facebook:before { content: '\73'; } /* 's' */

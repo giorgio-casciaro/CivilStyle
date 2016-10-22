@@ -1,0 +1,14 @@
+
+.icon-a-chi-e-rivolto:before { content: '\30'; } /* '0' */
+.icon-loading:before { content: '\31'; } /* '1' */
+.icon-profile:before { content: '\32'; } /* '2' */
+.icon-supporto:before { content: '\33'; } /* '3' */
+.icon-menu:before { content: '\34'; } /* '4' */
+.icon-config:before { content: '\35'; } /* '5' */
+.icon-come-unziona:before { content: '\36'; } /* '6' */
+.icon-faq:before { content: '\37'; } /* '7' */
+.icon-doc:before { content: '\38'; } /* '8' */
+.icon-contacts:before { content: '\39'; } /* '9' */
+.icon-gplus:before { content: '\61'; } /* 'a' */
+.icon-twitter:before { content: '\64'; } /* 'd' */
+.icon-facebook:before { content: '\73'; } /* 's' */
