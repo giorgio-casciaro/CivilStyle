@@ -13,12 +13,6 @@
       "src": "fontelico"
     },
     {
-      "uid": "8b80d36d4ef43889db10bc1f0dc9a862",
-      "css": "profile",
-      "code": 50,
-      "src": "fontawesome"
-    },
-    {
       "uid": "ebffa4e734c8379ffee4fbfe49264d94",
       "css": "supporto",
       "code": 51,
@@ -32,13 +26,13 @@
     },
     {
       "uid": "e99461abfef3923546da8d745372c995",
-      "css": "config",
+      "css": "impostazioni",
       "code": 53,
       "src": "fontawesome"
     },
     {
       "uid": "98687378abd1faf8f6af97c254eb6cd6",
-      "css": "come-unziona",
+      "css": "bg-supporto",
       "code": 54,
       "src": "fontawesome"
     },
@@ -52,18 +46,6 @@
       "uid": "5408be43f7c42bccee419c6be53fdef5",
       "css": "doc",
       "code": 56,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "937f4db8b6ff3348a1d9fcd5e12fd2fe",
-      "css": "contacts",
-      "code": 57,
-      "src": "iconic"
-    },
-    {
-      "uid": "31972e4e9d080eaa796290349ae6c1fd",
-      "css": "a-chi-e-rivolto",
-      "code": 48,
       "src": "fontawesome"
     },
     {
@@ -85,10 +67,100 @@
       "src": "fontawesome"
     },
     {
-      "uid": "72b1277834cba5b7944b0a6cac7ddb0d",
-      "css": "rss",
-      "code": 61598,
+      "uid": "12f4ece88e46abd864e40b35e05b11cd",
+      "css": "ok",
+      "code": 59392,
       "src": "fontawesome"
+    },
+    {
+      "uid": "cd21cbfb28ad4d903cede582157f65dc",
+      "css": "notifiche",
+      "code": 59393,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "197375a3cea8cb90b02d06e4ddf1433d",
+      "css": "cosecivil",
+      "code": 59394,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "dd6c6b221a1088ff8a9b9cd32d0b3dd5",
+      "css": "check",
+      "code": 59395,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "794d73c3a5fcf710265679700e470578",
+      "css": "mappe",
+      "code": 59396,
+      "src": "iconic"
+    },
+    {
+      "uid": "9dd9e835aebe1060ba7190ad2b2ed951",
+      "css": "cerca",
+      "code": 59397,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "2d76f2c8d13be40694ecadfea7fb83c3",
+      "css": "esci",
+      "code": 59398,
+      "src": "entypo"
+    },
+    {
+      "uid": "291e2e127efe7a6bc580af6d3ead3771",
+      "css": "posizione",
+      "code": 61489,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "bczb7qup4axmc490xmuuv8qdhcnbgeyf",
+      "css": "utente",
+      "code": 59399,
+      "src": "typicons"
+    },
+    {
+      "uid": "x8m4z7b33cv1h2s784tjlam56uq40wtd",
+      "css": "achierivolto",
+      "code": 59400,
+      "src": "typicons"
+    },
+    {
+      "uid": "933f454f9d3342a055217fd695475d44",
+      "css": "chisiamo",
+      "code": 59401,
+      "src": "typicons"
+    },
+    {
+      "uid": "767fede84586366cd7d6c835be745454",
+      "css": "vaiallapp",
+      "code": 59402,
+      "src": "entypo"
+    },
+    {
+      "uid": "5854855e963044f93b15738a5bb27a29",
+      "css": "contatti",
+      "code": 59403,
+      "src": "entypo"
+    },
+    {
+      "uid": "ff9a85aa20950dcc0615a2707a2b3f8e",
+      "css": "paragrafo",
+      "code": 59404,
+      "src": "entypo"
+    },
+    {
+      "uid": "37f6cfbb4062ed0d01b351ec35c334ff",
+      "css": "aprinotifica",
+      "code": 59405,
+      "src": "entypo"
+    },
+    {
+      "uid": "rrhco7mfj6ro9yzhe4a1rbln9flw47re",
+      "css": "annulla",
+      "code": 59406,
+      "src": "modernpics"
     }
   ]
 }
